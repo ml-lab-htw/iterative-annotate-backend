@@ -579,10 +579,12 @@ class BundleService:
                         if linked_img.is_corrected:
                             img_review_counter += 1
 
-                print(f"There are {img_review_counter}/{img_valid_counter} Images reviewed")
+                img_total_count = img_bundle.images.count()
+                print(f"There are {img_review_counter}/{img_total_count} Images reviewed")
 
-                if img_review_counter >= img_valid_counter:
-                    print(f"{colors.OKGREEN}Fully reviewed bundle{colors.ENDC}")
+                if img_review_counter >= img_total_count:
+
+                    print(f"{colors.OKGREEN}Fully reviewed bundle ({img_review_counter}/{img_valid_counter}){colors.ENDC}")
                     img_bundle.status = BundleStatusEnum.REVIEWED
                     img_bundle.save()
 
