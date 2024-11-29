@@ -1,0 +1,11 @@
+.DS_Store
+/venv/
+/img/*
+/.idea/
+
+**/__pycache__/
+
+.env
+
+kill_port_8000.sh
+/test/*/full-dataset

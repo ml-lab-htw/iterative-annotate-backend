@@ -1,0 +1,58 @@
+{
+    "bundle_id": 200,
+    "inference": {
+        "duration": 1967,
+        "result": [
+            {
+                "image_id": 2318,
+                "image": "static/37_project/200_bundle/transformed/0_SWpzft.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2319,
+                "image": "static/37_project/200_bundle/transformed/1_2uSI8v.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2320,
+                "image": "static/37_project/200_bundle/transformed/2_2zesvc.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2321,
+                "image": "static/37_project/200_bundle/transformed/3_1J4ypP.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2322,
+                "image": "static/37_project/200_bundle/transformed/4_nVGs8p.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2323,
+                "image": "static/37_project/200_bundle/transformed/5_C8ezW6.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2324,
+                "image": "static/37_project/200_bundle/transformed/6_we9dvy.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2325,
+                "image": "static/37_project/200_bundle/transformed/7_29SXmz.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2326,
+                "image": "static/37_project/200_bundle/transformed/8_AiOLir.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2327,
+                "image": "static/37_project/200_bundle/transformed/9_RJPHBb.jpg",
+                "annotations": []
+            }
+        ]
+    }
+}

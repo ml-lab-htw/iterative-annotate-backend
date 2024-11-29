@@ -1,0 +1,362 @@
+[
+    {
+        "bundle_id": 1,
+        "labeling": {
+            "duration": 131308,
+            "boxCreatedCnt": 27,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 6,
+            "labelUpdatedCnt": 27,
+            "navigateImgCnt": 11
+        },
+        "eval": {
+            "true_positives": 27,
+            "false_positives": 0,
+            "false_negatives": 0,
+            "average_precision": 1.0,
+            "mean_iou": 0.8427543462865071
+        }
+    },
+    {
+        "bundle_id": 2,
+        "labeling": {
+            "duration": 124947,
+            "boxCreatedCnt": 28,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 3,
+            "labelUpdatedCnt": 28,
+            "navigateImgCnt": 13
+        },
+        "eval": {
+            "true_positives": 28,
+            "false_positives": 0,
+            "false_negatives": 0,
+            "average_precision": 1.0,
+            "mean_iou": 0.843485234879833
+        }
+    },
+    {
+        "bundle_id": 3,
+        "labeling": {
+            "duration": 124946,
+            "boxCreatedCnt": 27,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 7,
+            "labelUpdatedCnt": 27,
+            "navigateImgCnt": 11
+        },
+        "eval": {
+            "true_positives": 27,
+            "false_positives": 0,
+            "false_negatives": 0,
+            "average_precision": 1.0,
+            "mean_iou": 0.8131655693675335
+        }
+    },
+    {
+        "bundle_id": 4,
+        "labeling": {
+            "duration": 133049,
+            "boxCreatedCnt": 26,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 9,
+            "labelUpdatedCnt": 26,
+            "navigateImgCnt": 12
+        },
+        "eval": {
+            "true_positives": 25,
+            "false_positives": 1,
+            "false_negatives": 0,
+            "average_precision": 0.9803921568627451,
+            "mean_iou": 0.7944766808975531
+        }
+    },
+    {
+        "bundle_id": 5,
+        "labeling": {
+            "duration": 142854,
+            "boxCreatedCnt": 30,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 8,
+            "labelUpdatedCnt": 30,
+            "navigateImgCnt": 11
+        },
+        "eval": {
+            "true_positives": 27,
+            "false_positives": 3,
+            "false_negatives": 1,
+            "average_precision": 0.9310344827586207,
+            "mean_iou": 0.8038727774141221
+        }
+    },
+    {
+        "bundle_id": 6,
+        "labeling": {
+            "duration": 124562,
+            "boxCreatedCnt": 28,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 7,
+            "labelUpdatedCnt": 28,
+            "navigateImgCnt": 12
+        },
+        "eval": {
+            "true_positives": 26,
+            "false_positives": 2,
+            "false_negatives": 1,
+            "average_precision": 0.9454545454545454,
+            "mean_iou": 0.8115395744905108
+        }
+    },
+    {
+        "bundle_id": 7,
+        "labeling": {
+            "duration": 125633,
+            "boxCreatedCnt": 27,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 11,
+            "labelUpdatedCnt": 27,
+            "navigateImgCnt": 15
+        },
+        "eval": {
+            "true_positives": 26,
+            "false_positives": 1,
+            "false_negatives": 1,
+            "average_precision": 0.9629629629629629,
+            "mean_iou": 0.8240574531568862
+        }
+    },
+    {
+        "bundle_id": 8,
+        "labeling": {
+            "duration": 125270,
+            "boxCreatedCnt": 27,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 7,
+            "labelUpdatedCnt": 27,
+            "navigateImgCnt": 12
+        },
+        "eval": {
+            "true_positives": 24,
+            "false_positives": 3,
+            "false_negatives": 3,
+            "average_precision": 0.8888888888888888,
+            "mean_iou": 0.8252372838981019
+        }
+    },
+    {
+        "bundle_id": 9,
+        "labeling": {
+            "duration": 118925,
+            "boxCreatedCnt": 28,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 7,
+            "labelUpdatedCnt": 28,
+            "navigateImgCnt": 12
+        },
+        "eval": {
+            "true_positives": 26,
+            "false_positives": 2,
+            "false_negatives": 1,
+            "average_precision": 0.9454545454545454,
+            "mean_iou": 0.8051549179490727
+        }
+    },
+    {
+        "bundle_id": 10,
+        "labeling": {
+            "duration": 117130,
+            "boxCreatedCnt": 22,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 11,
+            "labelUpdatedCnt": 22,
+            "navigateImgCnt": 11
+        },
+        "eval": {
+            "true_positives": 21,
+            "false_positives": 1,
+            "false_negatives": 0,
+            "average_precision": 0.9767441860465117,
+            "mean_iou": 0.862490256159889
+        }
+    },
+    {
+        "bundle_id": 11,
+        "labeling": {
+            "duration": 147056,
+            "boxCreatedCnt": 24,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 16,
+            "labelUpdatedCnt": 24,
+            "navigateImgCnt": 23
+        },
+        "eval": {
+            "true_positives": 24,
+            "false_positives": 0,
+            "false_negatives": 0,
+            "average_precision": 1.0,
+            "mean_iou": 0.846174186321761
+        }
+    },
+    {
+        "bundle_id": 12,
+        "labeling": {
+            "duration": 161322,
+            "boxCreatedCnt": 34,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 18,
+            "labelUpdatedCnt": 35,
+            "navigateImgCnt": 11
+        },
+        "eval": {
+            "true_positives": 33,
+            "false_positives": 1,
+            "false_negatives": 0,
+            "average_precision": 0.9850746268656716,
+            "mean_iou": 0.7792243461152651
+        }
+    },
+    {
+        "bundle_id": 13,
+        "labeling": {
+            "duration": 113856,
+            "boxCreatedCnt": 22,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 12,
+            "labelUpdatedCnt": 22,
+            "navigateImgCnt": 11
+        },
+        "eval": {
+            "true_positives": 22,
+            "false_positives": 0,
+            "false_negatives": 0,
+            "average_precision": 1.0,
+            "mean_iou": 0.8204111512369063
+        }
+    },
+    {
+        "bundle_id": 14,
+        "labeling": {
+            "duration": 124132,
+            "boxCreatedCnt": 25,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 9,
+            "labelUpdatedCnt": 25,
+            "navigateImgCnt": 11
+        },
+        "eval": {
+            "true_positives": 24,
+            "false_positives": 1,
+            "false_negatives": 0,
+            "average_precision": 0.9795918367346939,
+            "mean_iou": 0.8226197033904817
+        }
+    },
+    {
+        "bundle_id": 15,
+        "labeling": {
+            "duration": 154052,
+            "boxCreatedCnt": 30,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 12,
+            "labelUpdatedCnt": 30,
+            "navigateImgCnt": 16
+        },
+        "eval": {
+            "true_positives": 29,
+            "false_positives": 1,
+            "false_negatives": 0,
+            "average_precision": 0.983050847457627,
+            "mean_iou": 0.7854973759196787
+        }
+    },
+    {
+        "bundle_id": 16,
+        "labeling": {
+            "duration": 130569,
+            "boxCreatedCnt": 25,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 12,
+            "labelUpdatedCnt": 25,
+            "navigateImgCnt": 11
+        },
+        "eval": {
+            "true_positives": 25,
+            "false_positives": 0,
+            "false_negatives": 1,
+            "average_precision": 0.9803921568627451,
+            "mean_iou": 0.8153661725749463
+        }
+    },
+    {
+        "bundle_id": 17,
+        "labeling": {
+            "duration": 126513,
+            "boxCreatedCnt": 31,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 7,
+            "labelUpdatedCnt": 31,
+            "navigateImgCnt": 13
+        },
+        "eval": {
+            "true_positives": 30,
+            "false_positives": 1,
+            "false_negatives": 0,
+            "average_precision": 0.9836065573770492,
+            "mean_iou": 0.8005638977731858
+        }
+    },
+    {
+        "bundle_id": 18,
+        "labeling": {
+            "duration": 126050,
+            "boxCreatedCnt": 32,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 5,
+            "labelUpdatedCnt": 32,
+            "navigateImgCnt": 11
+        },
+        "eval": {
+            "true_positives": 32,
+            "false_positives": 0,
+            "false_negatives": 1,
+            "average_precision": 0.9846153846153847,
+            "mean_iou": 0.7994748871758451
+        }
+    },
+    {
+        "bundle_id": 19,
+        "labeling": {
+            "duration": 127822,
+            "boxCreatedCnt": 33,
+            "boxRemovedCnt": 1,
+            "boxMovedCnt": 2,
+            "labelUpdatedCnt": 33,
+            "navigateImgCnt": 15
+        },
+        "eval": {
+            "true_positives": 30,
+            "false_positives": 2,
+            "false_negatives": 0,
+            "average_precision": 0.967741935483871,
+            "mean_iou": 0.791356322212826
+        }
+    },
+    {
+        "bundle_id": 20,
+        "labeling": {
+            "duration": 110031,
+            "boxCreatedCnt": 24,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 9,
+            "labelUpdatedCnt": 24,
+            "navigateImgCnt": 12
+        },
+        "eval": {
+            "true_positives": 24,
+            "false_positives": 0,
+            "false_negatives": 0,
+            "average_precision": 1.0,
+            "mean_iou": 0.8371711352018011
+        }
+    }
+]

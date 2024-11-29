@@ -1,0 +1,1941 @@
+[
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_1/image_1.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    145,
+                    139,
+                    201,
+                    239
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    99,
+                    175,
+                    148,
+                    249
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    51,
+                    266,
+                    94,
+                    300
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    81,
+                    70,
+                    150,
+                    140
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    180,
+                    198,
+                    258,
+                    298
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_1/image_2.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    228,
+                    11,
+                    285,
+                    111
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    116,
+                    103,
+                    137,
+                    151
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_1/image_3.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    126,
+                    2,
+                    233,
+                    97
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_1/image_4.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    52,
+                    0,
+                    168,
+                    131
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    73,
+                    147,
+                    124,
+                    200
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    211,
+                    204,
+                    299,
+                    295
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_1/image_5.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    7,
+                    6,
+                    69,
+                    67
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    59,
+                    150,
+                    93,
+                    171
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_1/image_6.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    3,
+                    120,
+                    41,
+                    225
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_1/image_7.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    59,
+                    114,
+                    100,
+                    163
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    233,
+                    61,
+                    268,
+                    101
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_1/image_8.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    155,
+                    62,
+                    185,
+                    113
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    247,
+                    168,
+                    266,
+                    241
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    237,
+                    270,
+                    261,
+                    298
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_1/image_9.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    285,
+                    72,
+                    300,
+                    142
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_1/image_10.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    73,
+                    97,
+                    150,
+                    209
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    139,
+                    105,
+                    199,
+                    175
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    0,
+                    150,
+                    81,
+                    298
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_2/image_1.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    132,
+                    12,
+                    181,
+                    88
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    150,
+                    215,
+                    186,
+                    256
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_2/image_2.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    244,
+                    129,
+                    276,
+                    202
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    236,
+                    199,
+                    296,
+                    287
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    222,
+                    256,
+                    252,
+                    300
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    46,
+                    0,
+                    80,
+                    28
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_2/image_3.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    236,
+                    143,
+                    298,
+                    254
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    165,
+                    105,
+                    230,
+                    231
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    0,
+                    2,
+                    61,
+                    148
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    61,
+                    3,
+                    94,
+                    64
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_2/image_4.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    201,
+                    240,
+                    232,
+                    289
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_2/image_5.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    38,
+                    250,
+                    74,
+                    292
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_2/image_6.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    245,
+                    1,
+                    300,
+                    62
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_2/image_7.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    201,
+                    29,
+                    248,
+                    105
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_2/image_8.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    80,
+                    23,
+                    117,
+                    67
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_2/image_9.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    116,
+                    2,
+                    172,
+                    78
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    90,
+                    234,
+                    144,
+                    297
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    180,
+                    89,
+                    235,
+                    183
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    142,
+                    137,
+                    180,
+                    201
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    237,
+                    129,
+                    297,
+                    188
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    207,
+                    237,
+                    230,
+                    265
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_2/image_10.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    67,
+                    24,
+                    100,
+                    65
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_3/image_1.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    16,
+                    175,
+                    64,
+                    237
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_3/image_2.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    126,
+                    93,
+                    151,
+                    142
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_3/image_3.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    1,
+                    2,
+                    33,
+                    62
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_3/image_4.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    67,
+                    38,
+                    100,
+                    75
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_3/image_5.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    10,
+                    82,
+                    67,
+                    168
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    72,
+                    10,
+                    95,
+                    59
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_3/image_6.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    98,
+                    260,
+                    131,
+                    300
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    0,
+                    51,
+                    16,
+                    139
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_3/image_7.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    217,
+                    38,
+                    263,
+                    122
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    192,
+                    202,
+                    244,
+                    281
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    269,
+                    1,
+                    300,
+                    59
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_3/image_8.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    24,
+                    52,
+                    89,
+                    137
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_3/image_9.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    0,
+                    1,
+                    56,
+                    95
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    231,
+                    177,
+                    292,
+                    280
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    162,
+                    124,
+                    222,
+                    245
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_3/image_10.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    268,
+                    102,
+                    300,
+                    162
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    262,
+                    163,
+                    300,
+                    243
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    237,
+                    229,
+                    275,
+                    290
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_4/image_1.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    8,
+                    148,
+                    96,
+                    188
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_4/image_2.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    33,
+                    27,
+                    79,
+                    85
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_4/image_3.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    3,
+                    10,
+                    52,
+                    80
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_4/image_4.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    124,
+                    0,
+                    261,
+                    144
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    29,
+                    96,
+                    86,
+                    241
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_4/image_5.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    183,
+                    18,
+                    210,
+                    65
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    281,
+                    136,
+                    299,
+                    196
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    263,
+                    222,
+                    297,
+                    275
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_4/image_6.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    180,
+                    0,
+                    290,
+                    130
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_4/image_7.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    78,
+                    150,
+                    164,
+                    266
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    6,
+                    235,
+                    68,
+                    300
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_4/image_8.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    0,
+                    10,
+                    30,
+                    111
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    74,
+                    264,
+                    107,
+                    300
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    115,
+                    253,
+                    156,
+                    300
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    1,
+                    126,
+                    31,
+                    170
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_4/image_9.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    76,
+                    232,
+                    134,
+                    298
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    10,
+                    33,
+                    67,
+                    115
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_4/image_10.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    20,
+                    188,
+                    56,
+                    251
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_5/image_1.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    124,
+                    36,
+                    209,
+                    199
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    94,
+                    70,
+                    128,
+                    121
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    15,
+                    101,
+                    71,
+                    227
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_5/image_2.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    156,
+                    205,
+                    193,
+                    268
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    142,
+                    46,
+                    163,
+                    67
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_5/image_3.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    0,
+                    130,
+                    35,
+                    218
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_5/image_4.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    13,
+                    33,
+                    44,
+                    117
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_5/image_5.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    15,
+                    93,
+                    56,
+                    186
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_5/image_6.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    35,
+                    0,
+                    77,
+                    32
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    232,
+                    157,
+                    261,
+                    230
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    222,
+                    215,
+                    284,
+                    297
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_5/image_7.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    113,
+                    161,
+                    165,
+                    233
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_5/image_8.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    244,
+                    0,
+                    300,
+                    111
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    250,
+                    112,
+                    300,
+                    224
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    187,
+                    44,
+                    235,
+                    84
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    18,
+                    51,
+                    63,
+                    123
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    1,
+                    164,
+                    65,
+                    250
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    101,
+                    229,
+                    130,
+                    285
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    90,
+                    36,
+                    131,
+                    212
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_5/image_9.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    85,
+                    124,
+                    126,
+                    183
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_5/image_10.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    121,
+                    91,
+                    156,
+                    157
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_6/image_1.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    0,
+                    1,
+                    92,
+                    95
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    17,
+                    82,
+                    80,
+                    131
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    227,
+                    171,
+                    272,
+                    258
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_6/image_2.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    53,
+                    182,
+                    133,
+                    265
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    90,
+                    95,
+                    121,
+                    177
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_6/image_3.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    198,
+                    64,
+                    232,
+                    110
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    135,
+                    241,
+                    170,
+                    291
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    46,
+                    152,
+                    82,
+                    204
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_6/image_4.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    75,
+                    222,
+                    111,
+                    258
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    244,
+                    233,
+                    298,
+                    295
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    70,
+                    197,
+                    104,
+                    258
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    43,
+                    133,
+                    79,
+                    196
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_6/image_5.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    104,
+                    41,
+                    137,
+                    109
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    32,
+                    124,
+                    52,
+                    183
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    79,
+                    142,
+                    107,
+                    209
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_6/image_6.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    77,
+                    54,
+                    117,
+                    131
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    4,
+                    98,
+                    33,
+                    149
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    0,
+                    154,
+                    56,
+                    240
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_6/image_7.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    85,
+                    18,
+                    187,
+                    175
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    36,
+                    61,
+                    88,
+                    155
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    232,
+                    14,
+                    289,
+                    64
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    91,
+                    217,
+                    120,
+                    262
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    43,
+                    186,
+                    78,
+                    297
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    1,
+                    251,
+                    42,
+                    300
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_6/image_8.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    103,
+                    77,
+                    131,
+                    120
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_6/image_9.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    147,
+                    38,
+                    180,
+                    97
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_6/image_10.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    98,
+                    22,
+                    150,
+                    102
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    116,
+                    237,
+                    162,
+                    294
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_7/image_1.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    82,
+                    148,
+                    125,
+                    223
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_7/image_2.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    235,
+                    159,
+                    261,
+                    230
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    229,
+                    217,
+                    284,
+                    299
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    30,
+                    5,
+                    73,
+                    38
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_7/image_3.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    82,
+                    252,
+                    122,
+                    285
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_7/image_4.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    113,
+                    22,
+                    139,
+                    64
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_7/image_5.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    88,
+                    18,
+                    189,
+                    160
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    46,
+                    45,
+                    96,
+                    131
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    230,
+                    16,
+                    287,
+                    75
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_7/image_6.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    223,
+                    200,
+                    282,
+                    291
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    154,
+                    146,
+                    214,
+                    264
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    0,
+                    5,
+                    46,
+                    109
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_7/image_7.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    43,
+                    0,
+                    148,
+                    145
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    54,
+                    126,
+                    106,
+                    201
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    177,
+                    222,
+                    275,
+                    300
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_7/image_8.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    82,
+                    250,
+                    122,
+                    297
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_7/image_9.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    51,
+                    1,
+                    116,
+                    72
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_7/image_10.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    25,
+                    148,
+                    69,
+                    212
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    49,
+                    244,
+                    93,
+                    300
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_8/image_1.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    228,
+                    7,
+                    293,
+                    103
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_8/image_2.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    227,
+                    22,
+                    300,
+                    155
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    75,
+                    80,
+                    107,
+                    150
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    102,
+                    165,
+                    125,
+                    219
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    241,
+                    149,
+                    292,
+                    233
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    77,
+                    12,
+                    130,
+                    77
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_8/image_3.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    33,
+                    266,
+                    63,
+                    297
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_8/image_4.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    97,
+                    2,
+                    237,
+                    173
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    211,
+                    1,
+                    268,
+                    78
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    2,
+                    109,
+                    75,
+                    290
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    60,
+                    0,
+                    143,
+                    37
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_8/image_5.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    93,
+                    111,
+                    116,
+                    144
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_8/image_6.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    20,
+                    97,
+                    116,
+                    157
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    59,
+                    21,
+                    107,
+                    73
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_8/image_7.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    221,
+                    188,
+                    276,
+                    278
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    153,
+                    141,
+                    216,
+                    254
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    83,
+                    25,
+                    150,
+                    163
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    0,
+                    0,
+                    47,
+                    87
+                ]
+            },
+            {
+                "label": "tree",
+                "coordinates": [
+                    47,
+                    0,
+                    72,
+                    41
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_8/image_8.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    273,
+                    0,
+                    300,
+                    33
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_8/image_9.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    95,
+                    1,
+                    205,
+                    118
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/ssd-cnn/backend/test/dead-tree/sub-dataset/n_10/truth/bundle_8/image_10.jpg",
+        "annotations": [
+            {
+                "label": "tree",
+                "coordinates": [
+                    43,
+                    59,
+                    81,
+                    149
+                ]
+            }
+        ]
+    }
+]

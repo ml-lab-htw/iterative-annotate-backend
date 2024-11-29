@@ -1,0 +1,273 @@
+{
+    "bundle_id": 201,
+    "duration": 148736,
+    "trainings_info": {
+        "duration": 59183,
+        "learningRate": 0.0001,
+        "finalLoss": 4.838797569274902,
+        "normalizedLoss": 7.044,
+        "totalChange": -4.864,
+        "batchSize": 20,
+        "epochs": 150,
+        "optimizer": "SGD",
+        "images": 20
+    },
+    "info": {
+        "boxCreatedCnt": 21,
+        "boxRemovedCnt": 200,
+        "boxMovedCnt": 16,
+        "labelUpdatedCnt": 21,
+        "navigateImgCnt": 20
+    },
+    "images": [
+        {
+            "image_id": 2328,
+            "image": "static/37_project/201_bundle/transformed/0_CN0LDz.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        125,
+                        15,
+                        186,
+                        88
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        150,
+                        215,
+                        185,
+                        262
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2329,
+            "image": "static/37_project/201_bundle/transformed/1_gHNVLJ.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        223,
+                        267,
+                        250,
+                        300
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        236,
+                        214,
+                        292,
+                        289
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        244,
+                        144,
+                        277,
+                        208
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        43,
+                        1,
+                        81,
+                        32
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2330,
+            "image": "static/37_project/201_bundle/transformed/2_RtuCam.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        231,
+                        157,
+                        295,
+                        254
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        167,
+                        111,
+                        235,
+                        230
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        1,
+                        4,
+                        63,
+                        133
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2331,
+            "image": "static/37_project/201_bundle/transformed/3_FakzV1.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        200,
+                        252,
+                        232,
+                        290
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2332,
+            "image": "static/37_project/201_bundle/transformed/4_l9uJIe.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        33,
+                        248,
+                        77,
+                        296
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2333,
+            "image": "static/37_project/201_bundle/transformed/5_5CIcwy.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        242,
+                        1,
+                        300,
+                        64
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2334,
+            "image": "static/37_project/201_bundle/transformed/6_OnrRb5.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        198,
+                        31,
+                        248,
+                        105
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2335,
+            "image": "static/37_project/201_bundle/transformed/7_AhhHKc.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        80,
+                        25,
+                        112,
+                        69
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2336,
+            "image": "static/37_project/201_bundle/transformed/8_vjy5wB.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        199,
+                        224,
+                        231,
+                        263
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        84,
+                        229,
+                        141,
+                        296
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        222,
+                        136,
+                        295,
+                        190
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        133,
+                        132,
+                        184,
+                        203
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        180,
+                        91,
+                        241,
+                        187
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        107,
+                        4,
+                        168,
+                        81
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2337,
+            "image": "static/37_project/201_bundle/transformed/9_YtDpAp.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        67,
+                        27,
+                        100,
+                        68
+                    ],
+                    "label": "tree"
+                }
+            ]
+        }
+    ]
+}

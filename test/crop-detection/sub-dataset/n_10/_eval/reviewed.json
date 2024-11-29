@@ -1,0 +1,572 @@
+[
+    {
+        "bundle_id": 1,
+        "labeling": {
+            "duration": 108809,
+            "boxCreatedCnt": 26,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 2,
+            "labelUpdatedCnt": 26,
+            "navigateImgCnt": 11
+        },
+        "training": {
+            "duration": 50880,
+            "learningRate": 0.0001,
+            "finalLoss": 8.99,
+            "normalizedLoss": 16.63,
+            "totalChange": -22.171,
+            "batchSize": 20,
+            "epochs": 150,
+            "optimizer": "SGD",
+            "images": 10
+        },
+        "eval": {
+            "true_positives": 26,
+            "false_positives": 0,
+            "false_negatives": 1,
+            "average_precision": 0.9811320754716981,
+            "mean_iou": 0.8425453460343839
+        }
+    },
+    {
+        "bundle_id": 2,
+        "labeling": {
+            "duration": 178404,
+            "boxCreatedCnt": 12,
+            "boxRemovedCnt": 12,
+            "boxMovedCnt": 34,
+            "labelUpdatedCnt": 12,
+            "navigateImgCnt": 11
+        },
+        "training": {
+            "duration": 99514,
+            "learningRate": 0.0001,
+            "finalLoss": 3.96,
+            "normalizedLoss": 4.88,
+            "totalChange": -4.077,
+            "batchSize": 20,
+            "epochs": 150,
+            "optimizer": "SGD",
+            "images": 20
+        },
+        "eval": {
+            "true_positives": 27,
+            "false_positives": 0,
+            "false_negatives": 1,
+            "average_precision": 0.9818181818181818,
+            "mean_iou": 0.8397823646240744
+        }
+    },
+    {
+        "bundle_id": 3,
+        "labeling": {
+            "duration": 83800,
+            "boxCreatedCnt": 19,
+            "boxRemovedCnt": 1,
+            "boxMovedCnt": 3,
+            "labelUpdatedCnt": 19,
+            "navigateImgCnt": 12
+        },
+        "training": {
+            "duration": 147671,
+            "learningRate": 0.0001,
+            "finalLoss": 2.99,
+            "normalizedLoss": 3.57,
+            "totalChange": -1.161,
+            "batchSize": 20,
+            "epochs": 150,
+            "optimizer": "SGD",
+            "images": 30
+        },
+        "eval": {
+            "true_positives": 25,
+            "false_positives": 0,
+            "false_negatives": 2,
+            "average_precision": 0.9615384615384615,
+            "mean_iou": 0.817824429644408
+        }
+    },
+    {
+        "bundle_id": 4,
+        "labeling": {
+            "duration": 90674,
+            "boxCreatedCnt": 6,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 19,
+            "labelUpdatedCnt": 6,
+            "navigateImgCnt": 16
+        },
+        "training": {
+            "duration": 198127,
+            "learningRate": 0.0001,
+            "finalLoss": 2.66,
+            "normalizedLoss": 2.77,
+            "totalChange": -0.522,
+            "batchSize": 20,
+            "epochs": 150,
+            "optimizer": "SGD",
+            "images": 40
+        },
+        "eval": {
+            "true_positives": 24,
+            "false_positives": 0,
+            "false_negatives": 1,
+            "average_precision": 0.9795918367346939,
+            "mean_iou": 0.805960152658995
+        }
+    },
+    {
+        "bundle_id": 5,
+        "labeling": {
+            "duration": 98270,
+            "boxCreatedCnt": 1,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 32,
+            "labelUpdatedCnt": 2,
+            "navigateImgCnt": 13
+        },
+        "training": {
+            "duration": 248183,
+            "learningRate": 0.0001,
+            "finalLoss": 2.05,
+            "normalizedLoss": 2.38,
+            "totalChange": -0.589,
+            "batchSize": 20,
+            "epochs": 150,
+            "optimizer": "SGD",
+            "images": 50
+        },
+        "eval": {
+            "true_positives": 27,
+            "false_positives": 0,
+            "false_negatives": 1,
+            "average_precision": 0.9818181818181818,
+            "mean_iou": 0.8181899654222702
+        }
+    },
+    {
+        "bundle_id": 6,
+        "labeling": {
+            "duration": 83122,
+            "boxCreatedCnt": 1,
+            "boxRemovedCnt": 1,
+            "boxMovedCnt": 27,
+            "labelUpdatedCnt": 1,
+            "navigateImgCnt": 11
+        },
+        "training": {
+            "duration": 299093,
+            "learningRate": 0.0001,
+            "finalLoss": 2.09,
+            "normalizedLoss": 2.07,
+            "totalChange": -0.258,
+            "batchSize": 20,
+            "epochs": 150,
+            "optimizer": "SGD",
+            "images": 60
+        },
+        "eval": {
+            "true_positives": 26,
+            "false_positives": 0,
+            "false_negatives": 1,
+            "average_precision": 0.9811320754716981,
+            "mean_iou": 0.8100548077689425
+        }
+    },
+    {
+        "bundle_id": 7,
+        "labeling": {
+            "duration": 79066,
+            "boxCreatedCnt": 0,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 25,
+            "labelUpdatedCnt": 0,
+            "navigateImgCnt": 11
+        },
+        "training": {
+            "duration": 348138,
+            "learningRate": 0.0001,
+            "finalLoss": 1.78,
+            "normalizedLoss": 1.91,
+            "totalChange": -0.264,
+            "batchSize": 20,
+            "epochs": 150,
+            "optimizer": "SGD",
+            "images": 70
+        },
+        "eval": {
+            "true_positives": 24,
+            "false_positives": 0,
+            "false_negatives": 3,
+            "average_precision": 0.9411764705882353,
+            "mean_iou": 0.8390394785124083
+        }
+    },
+    {
+        "bundle_id": 8,
+        "labeling": {
+            "duration": 48829,
+            "boxCreatedCnt": 0,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 13,
+            "labelUpdatedCnt": 0,
+            "navigateImgCnt": 10
+        },
+        "training": {
+            "duration": 399014,
+            "learningRate": 0.0001,
+            "finalLoss": 1.73,
+            "normalizedLoss": 1.74,
+            "totalChange": -0.109,
+            "batchSize": 20,
+            "epochs": 150,
+            "optimizer": "SGD",
+            "images": 80
+        },
+        "eval": {
+            "true_positives": 24,
+            "false_positives": 1,
+            "false_negatives": 3,
+            "average_precision": 0.923076923076923,
+            "mean_iou": 0.8087520748328628
+        }
+    },
+    {
+        "bundle_id": 9,
+        "labeling": {
+            "duration": 58441,
+            "boxCreatedCnt": 0,
+            "boxRemovedCnt": 1,
+            "boxMovedCnt": 18,
+            "labelUpdatedCnt": 0,
+            "navigateImgCnt": 11
+        },
+        "training": {
+            "duration": 453162,
+            "learningRate": 0.0001,
+            "finalLoss": 1.64,
+            "normalizedLoss": 1.64,
+            "totalChange": -0.102,
+            "batchSize": 20,
+            "epochs": 150,
+            "optimizer": "SGD",
+            "images": 90
+        },
+        "eval": {
+            "true_positives": 25,
+            "false_positives": 0,
+            "false_negatives": 2,
+            "average_precision": 0.9615384615384615,
+            "mean_iou": 0.7910669716656021
+        }
+    },
+    {
+        "bundle_id": 10,
+        "labeling": {
+            "duration": 46280,
+            "boxCreatedCnt": 0,
+            "boxRemovedCnt": 3,
+            "boxMovedCnt": 11,
+            "labelUpdatedCnt": 0,
+            "navigateImgCnt": 13
+        },
+        "training": {
+            "duration": 168424,
+            "learningRate": 1e-05,
+            "finalLoss": 1.6,
+            "normalizedLoss": 1.52,
+            "totalChange": -0.024,
+            "batchSize": 50,
+            "epochs": 50,
+            "optimizer": "SGD",
+            "images": 100
+        },
+        "eval": {
+            "true_positives": 21,
+            "false_positives": 0,
+            "false_negatives": 0,
+            "average_precision": 1.0,
+            "mean_iou": 0.8023518743178423
+        }
+    },
+    {
+        "bundle_id": 11,
+        "labeling": {
+            "duration": 50279,
+            "boxCreatedCnt": 0,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 15,
+            "labelUpdatedCnt": 0,
+            "navigateImgCnt": 14
+        },
+        "training": {
+            "duration": 181587,
+            "learningRate": 1e-05,
+            "finalLoss": 1.47,
+            "normalizedLoss": 1.52,
+            "totalChange": -0.07,
+            "batchSize": 50,
+            "epochs": 50,
+            "optimizer": "SGD",
+            "images": 110
+        },
+        "eval": {
+            "true_positives": 24,
+            "false_positives": 0,
+            "false_negatives": 0,
+            "average_precision": 1.0,
+            "mean_iou": 0.8270235423539106
+        }
+    },
+    {
+        "bundle_id": 12,
+        "labeling": {
+            "duration": 64615,
+            "boxCreatedCnt": 2,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 12,
+            "labelUpdatedCnt": 2,
+            "navigateImgCnt": 11
+        },
+        "training": {
+            "duration": 209107,
+            "learningRate": 1e-05,
+            "finalLoss": 1.62,
+            "normalizedLoss": 1.55,
+            "totalChange": -0.09,
+            "batchSize": 50,
+            "epochs": 50,
+            "optimizer": "SGD",
+            "images": 120
+        },
+        "eval": {
+            "true_positives": 33,
+            "false_positives": 0,
+            "false_negatives": 0,
+            "average_precision": 1.0,
+            "mean_iou": 0.7978744197103107
+        }
+    },
+    {
+        "bundle_id": 13,
+        "labeling": {
+            "duration": 62831,
+            "boxCreatedCnt": 0,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 18,
+            "labelUpdatedCnt": 0,
+            "navigateImgCnt": 12
+        },
+        "training": {
+            "duration": 217650,
+            "learningRate": 1e-05,
+            "finalLoss": 1.63,
+            "normalizedLoss": 1.56,
+            "totalChange": 0.042,
+            "batchSize": 50,
+            "epochs": 50,
+            "optimizer": "SGD",
+            "images": 130
+        },
+        "eval": {
+            "true_positives": 21,
+            "false_positives": 0,
+            "false_negatives": 1,
+            "average_precision": 0.9767441860465117,
+            "mean_iou": 0.8208158354890094
+        }
+    },
+    {
+        "bundle_id": 14,
+        "labeling": {
+            "duration": 54553,
+            "boxCreatedCnt": 0,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 13,
+            "labelUpdatedCnt": 0,
+            "navigateImgCnt": 10
+        },
+        "training": {
+            "duration": 227155,
+            "learningRate": 1e-05,
+            "finalLoss": 1.6,
+            "normalizedLoss": 1.57,
+            "totalChange": 0.076,
+            "batchSize": 50,
+            "epochs": 50,
+            "optimizer": "SGD",
+            "images": 140
+        },
+        "eval": {
+            "true_positives": 24,
+            "false_positives": 0,
+            "false_negatives": 0,
+            "average_precision": 1.0,
+            "mean_iou": 0.8192203670317029
+        }
+    },
+    {
+        "bundle_id": 15,
+        "labeling": {
+            "duration": 60545,
+            "boxCreatedCnt": 0,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 16,
+            "labelUpdatedCnt": 0,
+            "navigateImgCnt": 10
+        },
+        "training": {
+            "duration": 248273,
+            "learningRate": 1e-05,
+            "finalLoss": 1.57,
+            "normalizedLoss": 1.58,
+            "totalChange": -0.094,
+            "batchSize": 50,
+            "epochs": 50,
+            "optimizer": "SGD",
+            "images": 150
+        },
+        "eval": {
+            "true_positives": 28,
+            "false_positives": 0,
+            "false_negatives": 1,
+            "average_precision": 0.9824561403508771,
+            "mean_iou": 0.7968981379593444
+        }
+    },
+    {
+        "bundle_id": 16,
+        "labeling": {
+            "duration": 53648,
+            "boxCreatedCnt": 1,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 13,
+            "labelUpdatedCnt": 1,
+            "navigateImgCnt": 11
+        },
+        "training": {
+            "duration": 266928,
+            "learningRate": 1e-05,
+            "finalLoss": 1.72,
+            "normalizedLoss": 1.59,
+            "totalChange": 0.151,
+            "batchSize": 50,
+            "epochs": 50,
+            "optimizer": "SGD",
+            "images": 160
+        },
+        "eval": {
+            "true_positives": 24,
+            "false_positives": 0,
+            "false_negatives": 2,
+            "average_precision": 0.9600000000000001,
+            "mean_iou": 0.8042439935671051
+        }
+    },
+    {
+        "bundle_id": 17,
+        "labeling": {
+            "duration": 70156,
+            "boxCreatedCnt": 0,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 20,
+            "labelUpdatedCnt": 0,
+            "navigateImgCnt": 13
+        },
+        "training": {
+            "duration": 290546,
+            "learningRate": 1e-05,
+            "finalLoss": 1.59,
+            "normalizedLoss": 1.57,
+            "totalChange": -0.095,
+            "batchSize": 50,
+            "epochs": 50,
+            "optimizer": "SGD",
+            "images": 170
+        },
+        "eval": {
+            "true_positives": 28,
+            "false_positives": 0,
+            "false_negatives": 2,
+            "average_precision": 0.9655172413793104,
+            "mean_iou": 0.8052395309488963
+        }
+    },
+    {
+        "bundle_id": 18,
+        "labeling": {
+            "duration": 57551,
+            "boxCreatedCnt": 0,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 14,
+            "labelUpdatedCnt": 0,
+            "navigateImgCnt": 11
+        },
+        "training": {
+            "duration": 307257,
+            "learningRate": 1e-05,
+            "finalLoss": 1.55,
+            "normalizedLoss": 1.58,
+            "totalChange": -0.061,
+            "batchSize": 50,
+            "epochs": 50,
+            "optimizer": "SGD",
+            "images": 180
+        },
+        "eval": {
+            "true_positives": 32,
+            "false_positives": 0,
+            "false_negatives": 1,
+            "average_precision": 0.9846153846153847,
+            "mean_iou": 0.809160242136601
+        }
+    },
+    {
+        "bundle_id": 19,
+        "labeling": {
+            "duration": 50344,
+            "boxCreatedCnt": 0,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 12,
+            "labelUpdatedCnt": 0,
+            "navigateImgCnt": 12
+        },
+        "training": {
+            "duration": 327817,
+            "learningRate": 1e-05,
+            "finalLoss": 1.56,
+            "normalizedLoss": 1.59,
+            "totalChange": -0.034,
+            "batchSize": 50,
+            "epochs": 50,
+            "optimizer": "SGD",
+            "images": 190
+        },
+        "eval": {
+            "true_positives": 29,
+            "false_positives": 0,
+            "false_negatives": 1,
+            "average_precision": 0.983050847457627,
+            "mean_iou": 0.8214896743098248
+        }
+    },
+    {
+        "bundle_id": 20,
+        "labeling": {
+            "duration": 50445,
+            "boxCreatedCnt": 0,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 15,
+            "labelUpdatedCnt": 0,
+            "navigateImgCnt": 11
+        },
+        "training": null,
+        "eval": {
+            "true_positives": 22,
+            "false_positives": 0,
+            "false_negatives": 2,
+            "average_precision": 0.9565217391304348,
+            "mean_iou": 0.8560904040478218
+        }
+    }
+]

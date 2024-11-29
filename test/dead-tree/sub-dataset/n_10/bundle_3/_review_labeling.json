@@ -1,0 +1,246 @@
+{
+    "bundle_id": 202,
+    "duration": 116384,
+    "trainings_info": {
+        "duration": 86888,
+        "learningRate": 0.0001,
+        "finalLoss": 4.520838975906372,
+        "normalizedLoss": 4.768,
+        "totalChange": -0.353,
+        "batchSize": 20,
+        "epochs": 150,
+        "optimizer": "SGD",
+        "images": 30
+    },
+    "info": {
+        "boxCreatedCnt": 17,
+        "boxRemovedCnt": 0,
+        "boxMovedCnt": 10,
+        "labelUpdatedCnt": 17,
+        "navigateImgCnt": 23
+    },
+    "images": [
+        {
+            "image_id": 2338,
+            "image": "static/37_project/202_bundle/transformed/0_dz7zFe.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        14,
+                        175,
+                        60,
+                        242
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2339,
+            "image": "static/37_project/202_bundle/transformed/1_Na1RzC.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        124,
+                        94,
+                        155,
+                        146
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2340,
+            "image": "static/37_project/202_bundle/transformed/2_2J0u3r.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        1,
+                        12,
+                        33,
+                        53
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2341,
+            "image": "static/37_project/202_bundle/transformed/3_zOcXKN.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        69,
+                        36,
+                        103,
+                        80
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2342,
+            "image": "static/37_project/202_bundle/transformed/4_UP7JSa.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        15,
+                        100,
+                        71,
+                        169
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        70,
+                        7,
+                        99,
+                        58
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2343,
+            "image": "static/37_project/202_bundle/transformed/5_WKeblU.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        1,
+                        61,
+                        31,
+                        135
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        91,
+                        244,
+                        125,
+                        299
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2344,
+            "image": "static/37_project/202_bundle/transformed/6_eaBPdY.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        192,
+                        217,
+                        249,
+                        290
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        266,
+                        1,
+                        298,
+                        64
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        208,
+                        35,
+                        263,
+                        121
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2345,
+            "image": "static/37_project/202_bundle/transformed/7_2RyC3o.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        19,
+                        57,
+                        90,
+                        141
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2346,
+            "image": "static/37_project/202_bundle/transformed/8_Dg5pGY.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        159,
+                        117,
+                        226,
+                        244
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        1,
+                        4,
+                        65,
+                        94
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        230,
+                        180,
+                        293,
+                        278
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2347,
+            "image": "static/37_project/202_bundle/transformed/9_bhY6vO.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        228,
+                        232,
+                        276,
+                        291
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        259,
+                        164,
+                        299,
+                        235
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        266,
+                        101,
+                        298,
+                        166
+                    ],
+                    "label": "tree"
+                }
+            ]
+        }
+    ]
+}

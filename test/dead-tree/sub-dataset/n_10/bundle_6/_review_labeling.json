@@ -1,0 +1,318 @@
+{
+    "bundle_id": 205,
+    "duration": 154429,
+    "trainings_info": {
+        "duration": 171772,
+        "learningRate": 0.0001,
+        "finalLoss": 4.1083000500996905,
+        "normalizedLoss": 4.220,
+        "totalChange": -0.318,
+        "batchSize": 20,
+        "epochs": 150,
+        "optimizer": "SGD",
+        "images": 60
+    },
+    "info": {
+        "boxCreatedCnt": 24,
+        "boxRemovedCnt": 0,
+        "boxMovedCnt": 15,
+        "labelUpdatedCnt": 24,
+        "navigateImgCnt": 25
+    },
+    "images": [
+        {
+            "image_id": 2368,
+            "image": "static/37_project/205_bundle/transformed/0_6j7d26.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        219,
+                        178,
+                        276,
+                        255
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        1,
+                        1,
+                        101,
+                        129
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2369,
+            "image": "static/37_project/205_bundle/transformed/1_KVEHy1.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        96,
+                        87,
+                        133,
+                        191
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        56,
+                        196,
+                        134,
+                        288
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2370,
+            "image": "static/37_project/205_bundle/transformed/2_7efCQC.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        134,
+                        235,
+                        177,
+                        300
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        39,
+                        146,
+                        91,
+                        200
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        204,
+                        53,
+                        234,
+                        113
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2371,
+            "image": "static/37_project/205_bundle/transformed/3_fpQisH.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        230,
+                        221,
+                        292,
+                        299
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        76,
+                        225,
+                        118,
+                        260
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        69,
+                        204,
+                        116,
+                        259
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        43,
+                        123,
+                        89,
+                        198
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2372,
+            "image": "static/37_project/205_bundle/transformed/4_LolriY.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        26,
+                        126,
+                        53,
+                        196
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        79,
+                        162,
+                        113,
+                        233
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        97,
+                        41,
+                        151,
+                        140
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2373,
+            "image": "static/37_project/205_bundle/transformed/5_6xCM9W.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        1,
+                        148,
+                        54,
+                        248
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        1,
+                        99,
+                        41,
+                        151
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        76,
+                        55,
+                        118,
+                        127
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2374,
+            "image": "static/37_project/205_bundle/transformed/6_PRDfKa.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        99,
+                        220,
+                        124,
+                        262
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        1,
+                        258,
+                        36,
+                        300
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        36,
+                        190,
+                        87,
+                        300
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        225,
+                        9,
+                        293,
+                        61
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        69,
+                        23,
+                        187,
+                        175
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2375,
+            "image": "static/37_project/205_bundle/transformed/7_6liqXs.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        94,
+                        73,
+                        135,
+                        125
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2376,
+            "image": "static/37_project/205_bundle/transformed/8_yGPFue.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        143,
+                        32,
+                        184,
+                        102
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2377,
+            "image": "static/37_project/205_bundle/transformed/9_p81GqY.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        116,
+                        235,
+                        157,
+                        288
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        98,
+                        11,
+                        153,
+                        96
+                    ],
+                    "label": "tree"
+                }
+            ]
+        }
+    ]
+}

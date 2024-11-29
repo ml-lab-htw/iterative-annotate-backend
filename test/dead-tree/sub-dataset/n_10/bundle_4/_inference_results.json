@@ -1,0 +1,86 @@
+{
+    "bundle_id": 203,
+    "inference": {
+        "duration": 1635,
+        "result": [
+            {
+                "image_id": 2348,
+                "image": "static/37_project/203_bundle/transformed/0_9J3Z2R.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            171,
+                            69,
+                            203,
+                            103
+                        ],
+                        "label": "tree"
+                    },
+                    {
+                        "box": [
+                            0,
+                            98,
+                            28,
+                            135
+                        ],
+                        "label": "tree"
+                    },
+                    {
+                        "box": [
+                            52,
+                            28,
+                            82,
+                            64
+                        ],
+                        "label": "tree"
+                    }
+                ]
+            },
+            {
+                "image_id": 2349,
+                "image": "static/37_project/203_bundle/transformed/1_dxlXJN.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2350,
+                "image": "static/37_project/203_bundle/transformed/2_enh8GF.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2351,
+                "image": "static/37_project/203_bundle/transformed/3_Ubhdas.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2352,
+                "image": "static/37_project/203_bundle/transformed/4_0QADSo.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2353,
+                "image": "static/37_project/203_bundle/transformed/5_wnuwqQ.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2354,
+                "image": "static/37_project/203_bundle/transformed/6_akyxfs.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2355,
+                "image": "static/37_project/203_bundle/transformed/7_S73ite.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2356,
+                "image": "static/37_project/203_bundle/transformed/8_z1onFQ.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2357,
+                "image": "static/37_project/203_bundle/transformed/9_uTp7rA.jpg",
+                "annotations": []
+            }
+        ]
+    }
+}

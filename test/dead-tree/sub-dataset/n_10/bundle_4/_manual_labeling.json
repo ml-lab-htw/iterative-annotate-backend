@@ -1,0 +1,235 @@
+{
+    "bundle_id": 211,
+    "duration": 129691,
+    "info": {
+        "boxCreatedCnt": 18,
+        "boxRemovedCnt": 0,
+        "boxMovedCnt": 21,
+        "labelUpdatedCnt": 18,
+        "navigateImgCnt": 12
+    },
+    "images": [
+        {
+            "image_id": 2428,
+            "image": "static/38_project/211_bundle/transformed/0_8k1nhl.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        6,
+                        152,
+                        91,
+                        201
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2429,
+            "image": "static/38_project/211_bundle/transformed/1_mjuIsg.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        33,
+                        30,
+                        83,
+                        82
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2430,
+            "image": "static/38_project/211_bundle/transformed/2_kiyR8p.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        1,
+                        19,
+                        63,
+                        78
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2431,
+            "image": "static/38_project/211_bundle/transformed/3_hrBSKF.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        32,
+                        102,
+                        79,
+                        244
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        133,
+                        1,
+                        246,
+                        144
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2432,
+            "image": "static/38_project/211_bundle/transformed/4_i35nMt.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        255,
+                        223,
+                        293,
+                        274
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        275,
+                        138,
+                        300,
+                        192
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        176,
+                        19,
+                        213,
+                        67
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2433,
+            "image": "static/38_project/211_bundle/transformed/5_cHXqLx.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        180,
+                        1,
+                        286,
+                        139
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2434,
+            "image": "static/38_project/211_bundle/transformed/6_ZanCvx.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        4,
+                        229,
+                        68,
+                        300
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        77,
+                        159,
+                        170,
+                        269
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2435,
+            "image": "static/38_project/211_bundle/transformed/7_y9axa1.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        110,
+                        254,
+                        154,
+                        299
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        70,
+                        262,
+                        111,
+                        299
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        1,
+                        131,
+                        36,
+                        170
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        1,
+                        10,
+                        37,
+                        120
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2436,
+            "image": "static/38_project/211_bundle/transformed/8_tjfAKG.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        79,
+                        256,
+                        136,
+                        300
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        7,
+                        47,
+                        64,
+                        123
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2437,
+            "image": "static/38_project/211_bundle/transformed/9_xSC2s3.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        20,
+                        194,
+                        64,
+                        258
+                    ],
+                    "label": "tree"
+                }
+            ]
+        }
+    ]
+}

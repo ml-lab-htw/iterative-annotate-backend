@@ -1,0 +1,345 @@
+{
+    "bundle_id": 154,
+    "duration": 50344,
+    "trainings_info" : {
+        "duration": 327817,
+        "learningRate": 0.00001,
+        "finalLoss" : 1.56,
+        "normalizedLoss" : 1.59,
+        "totalChange" : -0.034,
+        "batchSize": 50,
+        "epochs" : 50,
+        "optimizer" : "SGD",
+        "images": 190
+    },
+    "info": {
+        "boxCreatedCnt": 0,
+        "boxRemovedCnt": 0,
+        "boxMovedCnt": 12,
+        "labelUpdatedCnt": 0,
+        "navigateImgCnt": 12
+    },
+    "images": [
+        {
+            "image_id": 1859,
+            "image": "static/27_project/154_bundle/transformed/0_xfDR8t.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        165,
+                        130,
+                        207,
+                        163
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        159,
+                        86,
+                        194,
+                        114
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        171,
+                        189,
+                        221,
+                        240
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        158,
+                        47,
+                        189,
+                        72
+                    ],
+                    "label": "crop"
+                }
+            ]
+        },
+        {
+            "image_id": 1860,
+            "image": "static/27_project/154_bundle/transformed/1_1gSMNO.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        150,
+                        181,
+                        191,
+                        216
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        145,
+                        115,
+                        179,
+                        145
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        143,
+                        69,
+                        171,
+                        95
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        137,
+                        38,
+                        168,
+                        53
+                    ],
+                    "label": "crop"
+                }
+            ]
+        },
+        {
+            "image_id": 1861,
+            "image": "static/27_project/154_bundle/transformed/2_ME03e3.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        145,
+                        38,
+                        209,
+                        114
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        123,
+                        171,
+                        205,
+                        240
+                    ],
+                    "label": "crop"
+                }
+            ]
+        },
+        {
+            "image_id": 1862,
+            "image": "static/27_project/154_bundle/transformed/3_Q3Gno2.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        130,
+                        102,
+                        219,
+                        172
+                    ],
+                    "label": "crop"
+                }
+            ]
+        },
+        {
+            "image_id": 1863,
+            "image": "static/27_project/154_bundle/transformed/4_s4UR69.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        105,
+                        163,
+                        142,
+                        198
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        104,
+                        109,
+                        139,
+                        134
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        108,
+                        57,
+                        139,
+                        81
+                    ],
+                    "label": "crop"
+                }
+            ]
+        },
+        {
+            "image_id": 1864,
+            "image": "static/27_project/154_bundle/transformed/5_KJTU8b.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        160,
+                        197,
+                        228,
+                        260
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        160,
+                        43,
+                        235,
+                        116
+                    ],
+                    "label": "crop"
+                }
+            ]
+        },
+        {
+            "image_id": 1865,
+            "image": "static/27_project/154_bundle/transformed/6_cVrC6l.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        130,
+                        198,
+                        178,
+                        251
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        119,
+                        134,
+                        158,
+                        171
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        128,
+                        81,
+                        161,
+                        111
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        127,
+                        42,
+                        161,
+                        69
+                    ],
+                    "label": "crop"
+                }
+            ]
+        },
+        {
+            "image_id": 1866,
+            "image": "static/27_project/154_bundle/transformed/7_efVJJh.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        113,
+                        100,
+                        148,
+                        133
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        112,
+                        52,
+                        145,
+                        83
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        105,
+                        154,
+                        153,
+                        200
+                    ],
+                    "label": "crop"
+                }
+            ]
+        },
+        {
+            "image_id": 1867,
+            "image": "static/27_project/154_bundle/transformed/8_e3QLeM.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        137,
+                        40,
+                        204,
+                        106
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        147,
+                        173,
+                        208,
+                        245
+                    ],
+                    "label": "crop"
+                }
+            ]
+        },
+        {
+            "image_id": 1868,
+            "image": "static/27_project/154_bundle/transformed/9_KFfiTF.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        136,
+                        92,
+                        172,
+                        123
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        138,
+                        142,
+                        174,
+                        177
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        137,
+                        49,
+                        165,
+                        74
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        129,
+                        216,
+                        186,
+                        263
+                    ],
+                    "label": "crop"
+                }
+            ]
+        }
+    ]
+}

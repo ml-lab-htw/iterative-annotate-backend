@@ -1,0 +1,708 @@
+{
+    "bundle_id": 132,
+    "inference": {
+        "duration": 3407,
+        "confidence" : 0.5,
+        "result": [
+            {
+                "image_id": 1579,
+                "image": "static/26_project/132_bundle/transformed/0_cEuo9J.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            154,
+                            198,
+                            187,
+                            227
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            156,
+                            137,
+                            185,
+                            163
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            150,
+                            90,
+                            176,
+                            112
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            158,
+                            56,
+                            178,
+                            74
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1580,
+                "image": "static/26_project/132_bundle/transformed/1_uvwGIU.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            137,
+                            84,
+                            219,
+                            161
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            153,
+                            227,
+                            217,
+                            262
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1581,
+                "image": "static/26_project/132_bundle/transformed/2_hLVJWo.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            168,
+                            117,
+                            251,
+                            194
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1582,
+                "image": "static/26_project/132_bundle/transformed/3_DXfQvA.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            111,
+                            98,
+                            150,
+                            130
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            112,
+                            51,
+                            148,
+                            81
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            105,
+                            156,
+                            151,
+                            199
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1583,
+                "image": "static/26_project/132_bundle/transformed/4_eDKhHq.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            129,
+                            119,
+                            195,
+                            179
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1584,
+                "image": "static/26_project/132_bundle/transformed/5_t5V3zz.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            164,
+                            108,
+                            200,
+                            138
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            163,
+                            169,
+                            209,
+                            213
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            166,
+                            69,
+                            189,
+                            89
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            163,
+                            40,
+                            188,
+                            55
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1585,
+                "image": "static/26_project/132_bundle/transformed/6_VTacVF.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            109,
+                            139,
+                            140,
+                            165
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            110,
+                            83,
+                            137,
+                            107
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            111,
+                            42,
+                            135,
+                            66
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            107,
+                            223,
+                            147,
+                            259
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1586,
+                "image": "static/26_project/132_bundle/transformed/7_pyDAiq.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            157,
+                            113,
+                            214,
+                            172
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1587,
+                "image": "static/26_project/132_bundle/transformed/8_5hpQCW.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            132,
+                            117,
+                            164,
+                            145
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            133,
+                            74,
+                            160,
+                            96
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            132,
+                            176,
+                            170,
+                            215
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            140,
+                            38,
+                            164,
+                            55
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1588,
+                "image": "static/26_project/132_bundle/transformed/9_csvmjp.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            124,
+                            223,
+                            179,
+                            260
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            142,
+                            46,
+                            171,
+                            74
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            140,
+                            95,
+                            174,
+                            126
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            136,
+                            141,
+                            182,
+                            185
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1589,
+                "image": "static/26_project/132_bundle/transformed/10_6mLDAx.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            139,
+                            65,
+                            166,
+                            91
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            134,
+                            109,
+                            171,
+                            140
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            121,
+                            171,
+                            170,
+                            221
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            136,
+                            39,
+                            160,
+                            56
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1590,
+                "image": "static/26_project/132_bundle/transformed/11_FojFTz.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            139,
+                            107,
+                            215,
+                            186
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            127,
+                            38,
+                            203,
+                            68
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1591,
+                "image": "static/26_project/132_bundle/transformed/12_dRoxO0.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            140,
+                            100,
+                            173,
+                            127
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            136,
+                            49,
+                            165,
+                            80
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            135,
+                            149,
+                            179,
+                            196
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1592,
+                "image": "static/26_project/132_bundle/transformed/13_dt1F2d.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            135,
+                            71,
+                            226,
+                            159
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1593,
+                "image": "static/26_project/132_bundle/transformed/14_ytQyoF.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            110,
+                            39,
+                            180,
+                            96
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            129,
+                            172,
+                            195,
+                            240
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1594,
+                "image": "static/26_project/132_bundle/transformed/15_56SQat.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            124,
+                            59,
+                            163,
+                            92
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            126,
+                            171,
+                            174,
+                            221
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            123,
+                            105,
+                            164,
+                            146
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1595,
+                "image": "static/26_project/132_bundle/transformed/16_8WSEqj.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            157,
+                            120,
+                            218,
+                            186
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1596,
+                "image": "static/26_project/132_bundle/transformed/17_UxGigK.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            110,
+                            36,
+                            180,
+                            111
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            140,
+                            166,
+                            205,
+                            245
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1597,
+                "image": "static/26_project/132_bundle/transformed/18_KW6SDS.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            145,
+                            137,
+                            222,
+                            223
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1598,
+                "image": "static/26_project/132_bundle/transformed/19_ctaBoj.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            107,
+                            64,
+                            175,
+                            120
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            145,
+                            203,
+                            206,
+                            263
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1599,
+                "image": "static/26_project/132_bundle/transformed/20_rOHdlW.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            148,
+                            131,
+                            224,
+                            196
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1600,
+                "image": "static/26_project/132_bundle/transformed/21_22c17z.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            122,
+                            46,
+                            190,
+                            119
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            130,
+                            195,
+                            196,
+                            253
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1601,
+                "image": "static/26_project/132_bundle/transformed/22_jLiyuI.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            71,
+                            142,
+                            124,
+                            191
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            72,
+                            223,
+                            141,
+                            261
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            77,
+                            46,
+                            108,
+                            76
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            78,
+                            83,
+                            120,
+                            123
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1602,
+                "image": "static/26_project/132_bundle/transformed/23_jQuCl1.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            141,
+                            41,
+                            167,
+                            63
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            149,
+                            134,
+                            187,
+                            161
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            136,
+                            77,
+                            168,
+                            102
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            },
+            {
+                "image_id": 1603,
+                "image": "static/26_project/132_bundle/transformed/24_dUSbn0.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            153,
+                            163,
+                            228,
+                            240
+                        ],
+                        "label": "crop"
+                    },
+                    {
+                        "box": [
+                            140,
+                            35,
+                            212,
+                            72
+                        ],
+                        "label": "crop"
+                    }
+                ]
+            }
+        ]
+    }
+}

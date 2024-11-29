@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+torch
+torchvision
+numpy
+pillow
+pymysql
+peewee
+aiofiles
+pytest
+httpx
+piexif
+seaborn
+matplotlib
+scikit-learn
+python-dotenv

@@ -1,0 +1,255 @@
+{
+    "bundle_id": 206,
+    "duration": 133930,
+    "trainings_info": {
+        "duration": 203321,
+        "learningRate": 0.0001,
+        "finalLoss": 4.0914722084999084,
+        "normalizedLoss": 3.998,
+        "totalChange": -0.018,
+        "batchSize": 20,
+        "epochs": 150,
+        "optimizer": "SGD",
+        "images": 70
+    },
+    "info": {
+        "boxCreatedCnt": 19,
+        "boxRemovedCnt": 0,
+        "boxMovedCnt": 9,
+        "labelUpdatedCnt": 19,
+        "navigateImgCnt": 28
+    },
+    "images": [
+        {
+            "image_id": 2378,
+            "image": "static/37_project/206_bundle/transformed/0_gsj3GQ.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        82,
+                        153,
+                        125,
+                        220
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2379,
+            "image": "static/37_project/206_bundle/transformed/1_amYqDh.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        23,
+                        5,
+                        62,
+                        41
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        227,
+                        234,
+                        280,
+                        298
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        227,
+                        161,
+                        263,
+                        237
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2380,
+            "image": "static/37_project/206_bundle/transformed/2_sxAe68.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        78,
+                        248,
+                        127,
+                        289
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2381,
+            "image": "static/37_project/206_bundle/transformed/3_rhrnQU.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        107,
+                        24,
+                        139,
+                        64
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2382,
+            "image": "static/37_project/206_bundle/transformed/4_k6OZih.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        50,
+                        55,
+                        86,
+                        135
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        229,
+                        15,
+                        286,
+                        75
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        81,
+                        27,
+                        188,
+                        129
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2383,
+            "image": "static/37_project/206_bundle/transformed/5_v5iBfI.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        227,
+                        209,
+                        282,
+                        284
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        152,
+                        147,
+                        222,
+                        266
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        1,
+                        6,
+                        55,
+                        110
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2384,
+            "image": "static/37_project/206_bundle/transformed/6_Yp8YpA.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        183,
+                        232,
+                        270,
+                        300
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        52,
+                        130,
+                        109,
+                        203
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        41,
+                        2,
+                        143,
+                        142
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2385,
+            "image": "static/37_project/206_bundle/transformed/7_772SOF.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        82,
+                        250,
+                        121,
+                        299
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2386,
+            "image": "static/37_project/206_bundle/transformed/8_Yhol9R.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        49,
+                        1,
+                        117,
+                        81
+                    ],
+                    "label": "tree"
+                }
+            ]
+        },
+        {
+            "image_id": 2387,
+            "image": "static/37_project/206_bundle/transformed/9_oYJAGc.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        43,
+                        254,
+                        94,
+                        293
+                    ],
+                    "label": "tree"
+                },
+                {
+                    "box": [
+                        24,
+                        147,
+                        78,
+                        214
+                    ],
+                    "label": "tree"
+                }
+            ]
+        }
+    ]
+}

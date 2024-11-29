@@ -1,0 +1,78 @@
+{
+    "bundle_id": 204,
+    "inference": {
+        "duration": 1603,
+        "result": [
+            {
+                "image_id": 2358,
+                "image": "static/37_project/204_bundle/transformed/0_xG9NvK.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2359,
+                "image": "static/37_project/204_bundle/transformed/1_PfdgbI.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2360,
+                "image": "static/37_project/204_bundle/transformed/2_fwOQBB.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2361,
+                "image": "static/37_project/204_bundle/transformed/3_Qetwth.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            232,
+                            224,
+                            289,
+                            292
+                        ],
+                        "label": "tree"
+                    }
+                ]
+            },
+            {
+                "image_id": 2362,
+                "image": "static/37_project/204_bundle/transformed/4_WkbZaq.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2363,
+                "image": "static/37_project/204_bundle/transformed/5_7BII0P.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2364,
+                "image": "static/37_project/204_bundle/transformed/6_Bd3vCt.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            123,
+                            173,
+                            158,
+                            212
+                        ],
+                        "label": "tree"
+                    }
+                ]
+            },
+            {
+                "image_id": 2365,
+                "image": "static/37_project/204_bundle/transformed/7_2Oxidn.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2366,
+                "image": "static/37_project/204_bundle/transformed/8_NaEFVH.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2367,
+                "image": "static/37_project/204_bundle/transformed/9_aJpXdR.jpg",
+                "annotations": []
+            }
+        ]
+    }
+}

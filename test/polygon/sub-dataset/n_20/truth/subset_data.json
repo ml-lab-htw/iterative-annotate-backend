@@ -1,0 +1,1402 @@
+[
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_1.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    155,
+                    68,
+                    255,
+                    182
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_2.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    39,
+                    42,
+                    260,
+                    260
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_3.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    199,
+                    131,
+                    255,
+                    194
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_4.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    72,
+                    162,
+                    158,
+                    258
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_5.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    117,
+                    120,
+                    174,
+                    179
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_6.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    76,
+                    92,
+                    217,
+                    211
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_7.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    151,
+                    154,
+                    246,
+                    248
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_8.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    75,
+                    130,
+                    196,
+                    258
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_9.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    86,
+                    40,
+                    189,
+                    158
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_10.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    83,
+                    51,
+                    249,
+                    223
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_11.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    81,
+                    155,
+                    183,
+                    261
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_12.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    62,
+                    60,
+                    191,
+                    202
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_13.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    133,
+                    45,
+                    227,
+                    138
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_14.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    50,
+                    114,
+                    122,
+                    197
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_15.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    48,
+                    79,
+                    182,
+                    222
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_16.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    40,
+                    183,
+                    115,
+                    250
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_17.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    119,
+                    39,
+                    230,
+                    159
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_18.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    39,
+                    60,
+                    181,
+                    201
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_19.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    73,
+                    89,
+                    196,
+                    222
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_1/image_20.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    47,
+                    86,
+                    207,
+                    223
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_1.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    40,
+                    86,
+                    123,
+                    166
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_2.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    96,
+                    52,
+                    193,
+                    155
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_3.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    76,
+                    82,
+                    246,
+                    243
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_4.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    90,
+                    51,
+                    216,
+                    185
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_5.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    106,
+                    109,
+                    260,
+                    256
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_6.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    84,
+                    44,
+                    201,
+                    167
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_7.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    65,
+                    58,
+                    166,
+                    169
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_8.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    93,
+                    72,
+                    167,
+                    165
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_9.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    60,
+                    185,
+                    136,
+                    259
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_10.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    138,
+                    126,
+                    251,
+                    243
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_11.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    74,
+                    124,
+                    171,
+                    218
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_12.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    41,
+                    133,
+                    157,
+                    258
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_13.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    67,
+                    72,
+                    146,
+                    151
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_14.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    111,
+                    205,
+                    170,
+                    260
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_15.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    48,
+                    142,
+                    146,
+                    250
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_16.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    42,
+                    85,
+                    141,
+                    187
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_17.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    44,
+                    143,
+                    156,
+                    251
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_18.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    39,
+                    42,
+                    228,
+                    223
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_19.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    59,
+                    135,
+                    174,
+                    261
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_2/image_20.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    109,
+                    83,
+                    223,
+                    205
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_1.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    124,
+                    40,
+                    228,
+                    150
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_2.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    86,
+                    66,
+                    239,
+                    222
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_3.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    61,
+                    125,
+                    167,
+                    242
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_4.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    116,
+                    47,
+                    241,
+                    169
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_5.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    133,
+                    41,
+                    252,
+                    145
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_6.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    93,
+                    156,
+                    195,
+                    257
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_7.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    126,
+                    82,
+                    245,
+                    209
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_8.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    67,
+                    89,
+                    170,
+                    196
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_9.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    61,
+                    67,
+                    222,
+                    236
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_10.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    40,
+                    199,
+                    108,
+                    262
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_11.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    47,
+                    46,
+                    183,
+                    174
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_12.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    124,
+                    56,
+                    220,
+                    163
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_13.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    45,
+                    119,
+                    177,
+                    257
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_14.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    43,
+                    168,
+                    136,
+                    259
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_15.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    56,
+                    39,
+                    141,
+                    141
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_16.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    118,
+                    63,
+                    250,
+                    192
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_17.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    170,
+                    172,
+                    244,
+                    256
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_18.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    48,
+                    213,
+                    100,
+                    258
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_19.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    98,
+                    43,
+                    221,
+                    167
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_3/image_20.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    48,
+                    54,
+                    190,
+                    186
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_1.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    77,
+                    82,
+                    259,
+                    256
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_2.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    51,
+                    198,
+                    114,
+                    259
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_3.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    120,
+                    114,
+                    210,
+                    209
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_4.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    136,
+                    143,
+                    252,
+                    262
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_5.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    61,
+                    40,
+                    166,
+                    155
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_6.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    91,
+                    153,
+                    181,
+                    241
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_7.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    45,
+                    82,
+                    187,
+                    242
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_8.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    62,
+                    95,
+                    231,
+                    252
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_9.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    152,
+                    157,
+                    228,
+                    223
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_10.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    134,
+                    106,
+                    243,
+                    219
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_11.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    46,
+                    76,
+                    203,
+                    243
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_12.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    54,
+                    62,
+                    194,
+                    201
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_13.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    91,
+                    57,
+                    175,
+                    147
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_14.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    71,
+                    68,
+                    204,
+                    211
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_15.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    83,
+                    65,
+                    227,
+                    210
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_16.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    133,
+                    147,
+                    224,
+                    247
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_17.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    61,
+                    54,
+                    158,
+                    153
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_18.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    58,
+                    165,
+                    143,
+                    256
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_19.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    52,
+                    158,
+                    157,
+                    259
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_4/image_20.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    106,
+                    106,
+                    202,
+                    200
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_1.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    181,
+                    189,
+                    251,
+                    253
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_2.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    82,
+                    145,
+                    175,
+                    237
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_3.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    39,
+                    124,
+                    93,
+                    184
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_4.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    79,
+                    79,
+                    163,
+                    175
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_5.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    49,
+                    87,
+                    223,
+                    242
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_6.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    118,
+                    119,
+                    232,
+                    230
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_7.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    46,
+                    101,
+                    183,
+                    237
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_8.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    90,
+                    111,
+                    216,
+                    239
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_9.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    42,
+                    104,
+                    164,
+                    257
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_10.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    62,
+                    156,
+                    157,
+                    255
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_11.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    162,
+                    93,
+                    246,
+                    187
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_12.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    45,
+                    86,
+                    186,
+                    232
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_13.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    61,
+                    94,
+                    182,
+                    215
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_14.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    165,
+                    108,
+                    259,
+                    206
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_15.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    144,
+                    57,
+                    228,
+                    141
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_16.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    61,
+                    126,
+                    181,
+                    252
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_17.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    115,
+                    73,
+                    217,
+                    182
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_18.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    102,
+                    48,
+                    217,
+                    167
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_19.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    51,
+                    47,
+                    161,
+                    164
+                ]
+            }
+        ]
+    },
+    {
+        "image": "/Users/sotenck/GIT/Bachelor/SSD-CNN/test/polygon/sub-dataset/n_20/truth/bundle_5/image_20.jpg",
+        "annotations": [
+            {
+                "label": "star",
+                "coordinates": [
+                    135,
+                    59,
+                    236,
+                    171
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,300 @@
+{
+    "bundle_id": 146,
+    "duration": 50279,
+    "trainings_info" : {
+        "duration": 181587,
+        "learningRate": 0.00001,
+        "finalLoss" : 1.47,
+        "normalizedLoss" : 1.52,
+        "totalChange" : -0.07,
+        "batchSize": 50,
+        "epochs" : 50,
+        "optimizer" : "SGD",
+        "images": 110
+    },
+    "info": {
+        "boxCreatedCnt": 0,
+        "boxRemovedCnt": 0,
+        "boxMovedCnt": 15,
+        "labelUpdatedCnt": 0,
+        "navigateImgCnt": 14
+    },
+    "images": [
+        {
+            "image_id": 1779,
+            "image": "static/27_project/146_bundle/transformed/0_WIa4Rx.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        131,
+                        78,
+                        211,
+                        165
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        138,
+                        227,
+                        218,
+                        263
+                    ],
+                    "label": "crop"
+                }
+            ]
+        },
+        {
+            "image_id": 1780,
+            "image": "static/27_project/146_bundle/transformed/1_GzgO0r.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        123,
+                        39,
+                        158,
+                        61
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        107,
+                        198,
+                        158,
+                        246
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        116,
+                        74,
+                        153,
+                        109
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        127,
+                        125,
+                        163,
+                        161
+                    ],
+                    "label": "crop"
+                }
+            ]
+        },
+        {
+            "image_id": 1781,
+            "image": "static/27_project/146_bundle/transformed/2_0CtdvM.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        140,
+                        84,
+                        227,
+                        160
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        166,
+                        232,
+                        228,
+                        262
+                    ],
+                    "label": "crop"
+                }
+            ]
+        },
+        {
+            "image_id": 1782,
+            "image": "static/27_project/146_bundle/transformed/3_nOydiG.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        151,
+                        38,
+                        222,
+                        109
+                    ],
+                    "label": "crop"
+                }
+            ]
+        },
+        {
+            "image_id": 1783,
+            "image": "static/27_project/146_bundle/transformed/4_gH2tR2.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        96,
+                        175,
+                        137,
+                        219
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        98,
+                        116,
+                        134,
+                        144
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        91,
+                        66,
+                        131,
+                        96
+                    ],
+                    "label": "crop"
+                }
+            ]
+        },
+        {
+            "image_id": 1784,
+            "image": "static/27_project/146_bundle/transformed/5_aPUart.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        142,
+                        81,
+                        215,
+                        167
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        166,
+                        228,
+                        205,
+                        263
+                    ],
+                    "label": "crop"
+                }
+            ]
+        },
+        {
+            "image_id": 1785,
+            "image": "static/27_project/146_bundle/transformed/6_MmwbwV.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        133,
+                        145,
+                        197,
+                        211
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        116,
+                        38,
+                        178,
+                        65
+                    ],
+                    "label": "crop"
+                }
+            ]
+        },
+        {
+            "image_id": 1786,
+            "image": "static/27_project/146_bundle/transformed/7_TpOgfs.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        141,
+                        72,
+                        198,
+                        139
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        156,
+                        232,
+                        207,
+                        263
+                    ],
+                    "label": "crop"
+                }
+            ]
+        },
+        {
+            "image_id": 1787,
+            "image": "static/27_project/146_bundle/transformed/8_zvaPyB.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        114,
+                        164,
+                        158,
+                        208
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        114,
+                        100,
+                        152,
+                        136
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        107,
+                        55,
+                        141,
+                        81
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        109,
+                        241,
+                        152,
+                        263
+                    ],
+                    "label": "crop"
+                }
+            ]
+        },
+        {
+            "image_id": 1788,
+            "image": "static/27_project/146_bundle/transformed/9_tjTH0a.jpg",
+            "annotations": [
+                {
+                    "box": [
+                        120,
+                        40,
+                        210,
+                        132
+                    ],
+                    "label": "crop"
+                },
+                {
+                    "box": [
+                        121,
+                        200,
+                        216,
+                        264
+                    ],
+                    "label": "crop"
+                }
+            ]
+        }
+    ]
+}

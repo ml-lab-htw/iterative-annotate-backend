@@ -1,0 +1,68 @@
+{
+    "bundle_id": 202,
+    "inference": {
+        "duration": 1641,
+        "result": [
+            {
+                "image_id": 2338,
+                "image": "static/37_project/202_bundle/transformed/0_dz7zFe.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2339,
+                "image": "static/37_project/202_bundle/transformed/1_Na1RzC.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2340,
+                "image": "static/37_project/202_bundle/transformed/2_2J0u3r.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2341,
+                "image": "static/37_project/202_bundle/transformed/3_zOcXKN.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2342,
+                "image": "static/37_project/202_bundle/transformed/4_UP7JSa.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2343,
+                "image": "static/37_project/202_bundle/transformed/5_WKeblU.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2344,
+                "image": "static/37_project/202_bundle/transformed/6_eaBPdY.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2345,
+                "image": "static/37_project/202_bundle/transformed/7_2RyC3o.jpg",
+                "annotations": []
+            },
+            {
+                "image_id": 2346,
+                "image": "static/37_project/202_bundle/transformed/8_Dg5pGY.jpg",
+                "annotations": [
+                    {
+                        "box": [
+                            107,
+                            119,
+                            140,
+                            158
+                        ],
+                        "label": "tree"
+                    }
+                ]
+            },
+            {
+                "image_id": 2347,
+                "image": "static/37_project/202_bundle/transformed/9_bhY6vO.jpg",
+                "annotations": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,146 @@
+[
+    {
+        "bundle_id": 1,
+        "labeling": {
+            "duration": 297961,
+            "boxCreatedCnt": 74,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 14,
+            "labelUpdatedCnt": 74,
+            "navigateImgCnt": 42
+        },
+        "eval": {
+            "true_positives": 70,
+            "false_positives": 4,
+            "false_negatives": 3,
+            "average_precision": 0.9523809523809523,
+            "mean_iou": 0.7877140222279297
+        }
+    },
+    {
+        "bundle_id": 2,
+        "labeling": {
+            "duration": 250541,
+            "boxCreatedCnt": 64,
+            "boxRemovedCnt": 1,
+            "boxMovedCnt": 22,
+            "labelUpdatedCnt": 65,
+            "navigateImgCnt": 51
+        },
+        "eval": {
+            "true_positives": 61,
+            "false_positives": 2,
+            "false_negatives": 1,
+            "average_precision": 0.976,
+            "mean_iou": 0.7913223744569223
+        }
+    },
+    {
+        "bundle_id": 3,
+        "labeling": {
+            "duration": 242191,
+            "boxCreatedCnt": 65,
+            "boxRemovedCnt": 1,
+            "boxMovedCnt": 12,
+            "labelUpdatedCnt": 65,
+            "navigateImgCnt": 43
+        },
+        "eval": {
+            "true_positives": 63,
+            "false_positives": 3,
+            "false_negatives": 3,
+            "average_precision": 0.9545454545454546,
+            "mean_iou": 0.768782256909372
+        }
+    },
+    {
+        "bundle_id": 4,
+        "labeling": {
+            "duration": 260528,
+            "boxCreatedCnt": 70,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 14,
+            "labelUpdatedCnt": 70,
+            "navigateImgCnt": 53
+        },
+        "eval": {
+            "true_positives": 70,
+            "false_positives": 0,
+            "false_negatives": 2,
+            "average_precision": 0.9859154929577464,
+            "mean_iou": 0.8225358912490786
+        }
+    },
+    {
+        "bundle_id": 5,
+        "labeling": {
+            "duration": 256250,
+            "boxCreatedCnt": 64,
+            "boxRemovedCnt": 1,
+            "boxMovedCnt": 13,
+            "labelUpdatedCnt": 64,
+            "navigateImgCnt": 62
+        },
+        "eval": {
+            "true_positives": 63,
+            "false_positives": 1,
+            "false_negatives": 2,
+            "average_precision": 0.9767441860465116,
+            "mean_iou": 0.7784696607413789
+        }
+    },
+    {
+        "bundle_id": 6,
+        "labeling": {
+            "duration": 245554,
+            "boxCreatedCnt": 64,
+            "boxRemovedCnt": 0,
+            "boxMovedCnt": 8,
+            "labelUpdatedCnt": 64,
+            "navigateImgCnt": 56
+        },
+        "eval": {
+            "true_positives": 61,
+            "false_positives": 3,
+            "false_negatives": 2,
+            "average_precision": 0.9606299212598425,
+            "mean_iou": 0.8082673054108707
+        }
+    },
+    {
+        "bundle_id": 7,
+        "labeling": {
+            "duration": 270027,
+            "boxCreatedCnt": 68,
+            "boxRemovedCnt": 1,
+            "boxMovedCnt": 11,
+            "labelUpdatedCnt": 68,
+            "navigateImgCnt": 52
+        },
+        "eval": {
+            "true_positives": 67,
+            "false_positives": 1,
+            "false_negatives": 3,
+            "average_precision": 0.9710144927536232,
+            "mean_iou": 0.7635999092674458
+        }
+    },
+    {
+        "bundle_id": 8,
+        "labeling": {
+            "duration": 270358,
+            "boxCreatedCnt": 69,
+            "boxRemovedCnt": 1,
+            "boxMovedCnt": 10,
+            "labelUpdatedCnt": 69,
+            "navigateImgCnt": 66
+        },
+        "eval": {
+            "true_positives": 68,
+            "false_positives": 0,
+            "false_negatives": 3,
+            "average_precision": 0.9784172661870503,
+            "mean_iou": 0.7617360118175771
+        }
+    }
+]
