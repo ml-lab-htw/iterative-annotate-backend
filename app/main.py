@@ -15,6 +15,7 @@ app = FastAPI(title="SSD-CNN Inference API", version="1.00", description="API fo
 origins = [
     "*"
 ]
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
@@ -31,6 +32,7 @@ app.include_router(snapshot_router.router, prefix="/snapshot", tags=["Model vers
 
 # Publish Image folders to the API
 load_dotenv()
+
 base_dir = os.getenv('BASE_DIR')
 images_directory = os.path.join(base_dir, 'static')
 

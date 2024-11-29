@@ -14,3 +14,4 @@ seaborn
 matplotlib
 scikit-learn
 python-dotenv
+python-multipart
